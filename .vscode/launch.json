@@ -1,0 +1,17 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Current File",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "justMyCode": true,
+            "args": ["--input", "D:/박영민/테스트이미지/스크린샷 2023-11-26 212745.png", "--output", "realData_debug.xlsx", "--secret_key", "c1ZaSXZ5VHBYVlBtRG1sUkJSc3JnTUVqUXRGdGFVRWY=", "--api_url", "https://4svkoihtbo.apigw.ntruss.com/custom/v1/26294/c66f2c45759de3a3d1ce47f842034c8b3da728f68b35b11973254d2ad59f4060/general"]
+        }
+    ]
+}
